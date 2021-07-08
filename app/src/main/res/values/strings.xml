@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Money Converter2</string>
+    <string name="title">Cryptocurrency Converter</string>
+    <string name="cyptoInputPromptHint">Crypto Amount</string>
+    <string name="dollarOutput">Crypto Amount</string>
+    <string name="crypto2Dollar">Ethereum -> Dollar</string>
+    <string name="dollar2Crypto">Dollar -> Ethereum</string>
+    <string name="convertButtonText">Convert</string>
+
+</resources>
